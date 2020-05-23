@@ -1,2 +1,2 @@
 # Tetris-JavaScript
-A simple Tetris game coded in JavaScript, CSS, HTML
+A simple Tetris game coded in HTML, CSS, JavaScript
